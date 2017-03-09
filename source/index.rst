@@ -21,3 +21,4 @@ Table des matières
    introduction.rst
    json/index.rst
    licence.rst
+   weakref/index.rst
