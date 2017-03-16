@@ -36,6 +36,7 @@ Table des matières
    sphinx/index.rst
    licence.rst
    weakref/index.rst
+   watchdog/index.rst
 
 À propos de ce livre
 ====================
