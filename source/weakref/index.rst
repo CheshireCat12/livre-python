@@ -1,7 +1,7 @@
 .. _weakref-tutorial:
 
 Weakref
-====
+=======
 
 .. image:: ../_static/json.png
    :align: right
