@@ -17,16 +17,18 @@ Bases
 -----
 
 * :ref:`builtins-tutorial`
+* :ref:`dunder-tutorial`
 * :ref:`collections-tutorial`
 * :ref:`hashlib-tutorial`
 * :ref:`fstrings-tutorial`
 * :ref:`io-tutorial`
-* :ref:`itertools-tutorial`
-* :ref:`random-tutorial`
+* :ref:`itertools-tutorial` ★
+* :ref:`random-tutorial` ★
 * :ref:`math-tutorial`
-* :ref:`secrets-tutorial`
+* :ref:`secrets-tutorial` ★
 * :ref:`statistics-tutorial`
 * :ref:`super-tutorial`
+* :ref:`time-tutorial`
 
 Avancé
 ------
@@ -51,12 +53,16 @@ Traitement des données
 ----------------------
 
 * :ref:`csv-tutorial`
-* :ref:`json-tutorial`
-* :ref:`pillow-tutorial`
+* :ref:`json-tutorial` ★
+* :ref:`pillow-tutorial` ★
 
 Autres
 ------
 
+* :ref:`hug-tutorial`
+* :ref:`invoke-tutorial`
+* :ref:`matplotlib-tutorial`
+* :ref:`pycrypto-tutorial`
 * :ref:`pygame-tutorial`
 * :ref:`sphinx-tutorial`
 * :ref:`watchdog-tutorial`
